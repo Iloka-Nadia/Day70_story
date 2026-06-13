@@ -1,3 +1,14 @@
 After so many days...
 Finally...
 Day 70 of 100
+
+
+level 1 = Begineer
+level 2 = Intermediate
+level 3 = Intermediate +
+level 4 = Advanced
+level 5 = Professionalgi
+
+
+
+<!--oh... I need to save the file before adding, if not, it will have nothing to commit-->
